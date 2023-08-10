@@ -19,7 +19,7 @@ struct ContentView: View {
                     .padding(.leading)
                 Text(textTitle)
                 
-                Button("Click Here to Learn About Me"){ textTitle = "I am a rising junior who is interested in pursuing CS. I love thrifting and going out to eat at new restaurants! "
+                Button("Click Here to Learn About Me!"){ textTitle = "I am a rising junior who is interested in pursuing CS. I love thrifting and going out to eat at new restaurants! "
                     
                     
                 }
